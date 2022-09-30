@@ -12,9 +12,9 @@ Kotlin, no external libraries used
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Understanding init Block in Kotlin](https://blog.mindorks.com/understanding-init-block-in-kotlin)
 * [Kotlin Classes](https://kotlinlang.org/docs/classes.html)
+* [Common English Words](https://github.com/dariusk/corpora/blob/master/data/words/common.json)
 
 # Future Work
 

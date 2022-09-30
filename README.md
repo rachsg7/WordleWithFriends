@@ -1,30 +1,23 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description the software that you wrote to demonstrate the Kotlin language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+This is a simple, console-based Kotlin program that is like Wordle, but does not just focus on 5-letter words. It pulls from a list of about a thousand commonly used words in English. My future goal is to turn this simple program into an Android app that you can play with friends, and send each other words. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Developed using IntelliJ
 
-{Describe the programming language that you used and any libraries.}
+Kotlin, no external libraries used
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Understanding init Block in Kotlin](https://blog.mindorks.com/understanding-init-block-in-kotlin)
+* [Kotlin Classes](https://kotlinlang.org/docs/classes.html)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Convert to Android app in the future
+* Bug where double letter in the right place shows as a lowercase instead of uppercase

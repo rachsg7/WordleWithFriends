@@ -2,7 +2,7 @@
 
 This is a simple, console-based Kotlin program that is like Wordle, but does not just focus on 5-letter words. It pulls from a list of about a thousand commonly used words in English. My future goal is to turn this simple program into an Android app that you can play with friends, and send each other words. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/pIdz86MVv98)
 
 # Development Environment
 

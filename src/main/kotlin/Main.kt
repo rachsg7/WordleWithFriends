@@ -4,7 +4,6 @@ import java.util.*
 
 
 fun main(args: Array<String>) {
-//    val jsonObject = JSONToken(response).nextValue() as JSONObject
 
     // For now, we have a hardcoded list of words for our program. This is where we randomly choose a word from the list
     val wordList = arrayOf("elephant", "horse", "computer", "program", "guitar", "bass", "piano", "dice", "dragon", "elves", "sunset");

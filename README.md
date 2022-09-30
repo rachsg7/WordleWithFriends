@@ -18,6 +18,5 @@ Kotlin, no external libraries used
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Convert to Android app in the future
 * Bug where double letter in the right place shows as a lowercase instead of uppercase
